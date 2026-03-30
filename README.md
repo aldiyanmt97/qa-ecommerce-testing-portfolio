@@ -1,19 +1,31 @@
-# QA Testing Portfolio - E-Commerce
+# QA Portfolio - Aldi
 
 ## Overview
-This repository demonstrates my end-to-end QA testing skills including test planning, test case design, bug reporting, and basic automation.
+This repository contains my QA testing portfolio, including manual testing and API testing.
 
 ## Scope
-- Functional Testing
-- Test Case Design
-- Bug Reporting
-- API Testing (planned)
-- Automation Testing (planned)
+- Manual Testing (Test Case & Bug Report)
+- API Testing using Postman
 
-## Tools
-- Manual Testing
-- Selenium (basic)
+## Manual Testing
+Includes:
+- Test cases for e-commerce scenario
+- Bug report documentation
+
+## API Testing
+Covers:
+- GET user validation
+- POST create user
+- Login (positive & negative testing)
+
+Tools used:
 - Postman
 
-## Project Status
-In Progress
+## Key Skills Demonstrated
+- Test case design (positive & negative)
+- Bug reporting
+- API testing & validation
+- Basic understanding of authentication testing
+
+## Notes
+All API testing includes assertions and validation to ensure response accuracy.
