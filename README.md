@@ -12,7 +12,7 @@ I'm passionate about building reliable, maintainable test suites that actually c
 
 📍 Based in Jakarta, Indonesia
 📧 Open to opportunities in NZ, AU, SG, MY & beyond
-🔗 [LinkedIn](https://www.linkedin.com/in/aldiyanmt97) <!-- update link if needed -->
+🔗 [LinkedIn](https://www.linkedin.com/in/aldiyanmt)
 
 ---
 
