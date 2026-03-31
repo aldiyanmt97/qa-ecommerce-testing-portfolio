@@ -10,8 +10,8 @@ I'm a QA Lead with 5+ years of experience in software quality assurance, special
 
 I'm passionate about building reliable, maintainable test suites that actually catch bugs — not just pass pipelines.
 
-📍 Based in Jakarta, Indonesia
-📧 Open to opportunities in NZ, AU, SG, MY & beyond
+📍 Based in Jakarta, Indonesia | Willing to relocate
+📧 Open to opportunities in MY, NZ, AU, SG & beyond
 🔗 [LinkedIn](https://www.linkedin.com/in/aldiyanmt)
 
 ---
